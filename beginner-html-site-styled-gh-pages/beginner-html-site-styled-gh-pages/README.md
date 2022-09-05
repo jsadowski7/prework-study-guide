@@ -1,4 +1,15 @@
-# beginner-html-site-styled
-A simple one page website created to help complete beginners learn HTML basics, which in this repo has also been styled to help beginners learn CSS basics. The styling is explained over the course of [https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics).
+# Prework Study Guide Webpage
 
-[Run the example live](http://mdn.github.io/beginner-html-site-styled/).
+## This is a webpage created for the purpose of recording and organizing the information students learned in the prework courses. It contains notes on HTML, CSS, Git, and JavaScript.
+
+
+## N/A
+
+
+## This study guide can be used to review the notes for each section. For suggestions on what to study first, use the Chrome DevTools to display the console and see what topics we learned along with suggestions for which topic to study first.
+
+
+## N/A
+
+
+## Refer to the license listed in the repo.
